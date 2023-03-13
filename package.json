@@ -1,0 +1,19 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node wasm.js"
+  },
+  "description": "wasm playground",
+  "main": "wasm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lancenonce/wasm-fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lancenonce/wasm-fun/issues"
+  },
+  "homepage": "https://github.com/lancenonce/wasm-fun#readme"
+}
